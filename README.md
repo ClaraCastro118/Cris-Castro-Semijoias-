@@ -717,15 +717,15 @@ A paleta visual utiliza como referência principal o **azul Tiffany**, combinado
 
 ---
 
-# 👩🏻‍💻 Desenvolvedora
+# 👩🏻‍💻 Desenvolvedores
 
 <div align="center">
 
-### Maria Clara Castro
+### Maria Clara Castro $ Gustavo Silva 
 
-Estudante de **Análise e Desenvolvimento de Sistemas**, em formação Full Stack e em processo de construção de experiência prática através de projetos próprios.
+Estudantes de **Análise e Desenvolvimento de Sistemas**, em formação Full Stack e em processo de construção de experiência prática através de projetos próprios.
 
-Meu foco está no desenvolvimento de aplicações web, buscando unir:
+Nosso foco está no desenvolvimento de aplicações web, buscando unir:
 
 **Frontend + Backend + Banco de Dados + Arquitetura + Boas Práticas**
 
