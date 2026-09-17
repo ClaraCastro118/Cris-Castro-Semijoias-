@@ -27,8 +27,8 @@
     "@nestjs/cli": "^12.0.3",
     "@nestjs/schematics": "^12.0.3",
     "@nestjs/testing": "^12.0.3",
-    "ts-node": "^10.9.2",
     "ts-loader": "^9.5.4",
-    "typescript": "^5.9.2"
+    "ts-node": "^10.9.2",
+    "typescript": "^7.0.2"
   }
 }
